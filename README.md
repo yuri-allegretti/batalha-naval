@@ -7,10 +7,10 @@ Regras do Jogo
 
 -Inicialização:
 O jogador deve iniciar o jogo digitando 1.
+
+
 -Tabuleiro:
 O tabuleiro do jogo é uma matriz 5x5, tanto para o jogador quanto para o adversário.
-
-
 Posicionamento das Embarcações:
 Cada jogador tem 5 embarcações para posicionar em seu tabuleiro.
 O jogador escolhe as coordenadas (linha e coluna) onde deseja posicionar cada embarcação.
