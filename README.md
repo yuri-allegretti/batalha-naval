@@ -42,3 +42,6 @@ Permite ao jogador posicionar suas embarcações.
 O adversário posiciona suas embarcações aleatoriamente.
 Executa os turnos de ataque alternados entre jogador e adversário.
 Verifica após cada ataque se algum jogador venceu.
+
+-Integrantes:
+João Gabriel de Paula Leite Abreu, Kevyn Gabriel Gonçalves de Moraes, Lorenzo Nakayama Machado, Yuri Allegretti Raffo Rodrigues
