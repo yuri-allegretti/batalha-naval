@@ -1,4 +1,4 @@
-Batalha Naval
+  Batalha Naval
 -Descrição do Projeto
 Este projeto é uma implementação simples do jogo Batalha Naval em Python. O jogo é jogado em um tabuleiro de 5x5 onde o jogador e o adversário posicionam suas embarcações e se alternam para tentar acertar as embarcações do oponente. O primeiro a destruir todas as embarcações do oponente vence o jogo.
 
